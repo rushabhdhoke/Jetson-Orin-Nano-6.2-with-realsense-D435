@@ -1,6 +1,5 @@
 # Jetson Orin Nano + RealSense D435/D435i Utilities
 
-Hello, 
 Python and ROS 2 tools for using Intel RealSense D435/D435i cameras on a Jetson Orin Nano (JetPack 6.2):
 
 - Simple **non-ROS** recording and preview using `pyrealsense2`.
